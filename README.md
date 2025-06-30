@@ -2,7 +2,7 @@
 Software Developer at Synamedia
 
 ## 🚀 What I'm Working On
-- Performing log analysis for issue resolution and implemented comprehensive unit tests.
+- Developing and enhancing Set-Top Box key features, performing unit testing, analyzing logs, and troubleshooting issues.
 - Currently learning backend framework and python programmming
 
 ## 📫 Connect with Me
